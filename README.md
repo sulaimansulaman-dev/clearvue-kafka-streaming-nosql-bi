@@ -1,5 +1,7 @@
 # ClearVue NoSQL BI System
 
+🎥 Video Demo: [https://youtu.be/xxxx](https://www.youtube.com/watch?v=fW5MJkZraOY&feature=youtu.be)
+
 A lightweight NoSQL Business Intelligence project built for CMPG321. The system processes ClearVue’s sales, payments, and purchase data using Python, Apache Kafka, and MongoDB, with BI dashboards created in Metabase.
 
 ---
